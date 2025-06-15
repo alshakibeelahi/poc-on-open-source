@@ -154,8 +154,4 @@ Your project is now open source and ready for the world to explore and contribut
 * CI/CD with GitHub Actions
 * Wiki or Documentation site
 
----
-
 Happy Coding! 💻✨
-
-```
