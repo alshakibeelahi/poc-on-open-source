@@ -153,5 +153,3 @@ Your project is now open source and ready for the world to explore and contribut
 * `SECURITY.md` – how to report vulnerabilities
 * CI/CD with GitHub Actions
 * Wiki or Documentation site
-
-Happy Coding! 💻✨
